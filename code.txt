@@ -93,3 +93,5 @@ const form = document.getElementById('gmailRegisterForm');
 
 ##GAS website url##
 https://script.google.com/macros/s/AKfycbxfhgZ6mfI-v67vAW-iSeUZdF0GHxSFAKLQ9ubtetsMJwc7ezCtPOl5JmJbBEVtFKhb/exe
+
+請勿未經允許使用原始碼

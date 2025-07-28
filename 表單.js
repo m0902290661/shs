@@ -53,3 +53,5 @@ const form = document.getElementById('gmailRegisterForm');
       console.error('Error:', error);
     });
   });
+
+// 請勿未經允許使用原始碼
